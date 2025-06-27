@@ -17,3 +17,12 @@ body{
     background-color: #000702;
     color: rgb(168, 224, 168);
 }
+
+h1{
+    .raleway-<uniquifier> {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+}
