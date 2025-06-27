@@ -28,3 +28,10 @@ h1 {
     font-weight: <weight>;
     font-style: normal;
 }
+
+.chamada{
+    display: flex;
+    justify-content: center;
+    
+
+}
