@@ -34,5 +34,21 @@ h1 {
     justify-content: center;
     background-color: rgb(3, 12, 2);
     
+}
+
+.chamada-texto{
+    margin-right: 5%;
+
+}
+
+img{
+    height: 200px;
+
+}
+
+.categoria-video{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
 
 }
