@@ -32,6 +32,7 @@ h1 {
 .chamada{
     display: flex;
     justify-content: center;
+    background-color: blue;
     
 
 }
