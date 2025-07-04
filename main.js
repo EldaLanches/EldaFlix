@@ -5,4 +5,4 @@ function inserirNome(  ) {
 
 }
 
-inserirNome
+inserirNome(  );
